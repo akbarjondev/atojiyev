@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on frontend
-- 🌱 I’m currently learning fullstack web programming
+- 🌱 I’m currently learning programming
 - 📫 How to reach me: tojiyev.akbarjon@gmail.com
