@@ -1,19 +1,6 @@
 ### Hi there 👋
 
-<!--
-**atojiyev/atojiyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=atojiyev&show_icons=true&theme=vue)
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on frontend
-- 🌱 I’m currently learning fullstack web programming
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 - 🌱 I’m currently learning web programming
 - 📫 How to reach me: tojiyev.akbarjon@gmail.com
